@@ -123,6 +123,25 @@
   "url":"https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
 
   }
+  },
+  {
+  "chaine":{
+  "title":"link2",
+  "protocol":"https",
+  "url":"https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8"
+
+  }
+
+  }
+  
+  {
+  "chaine":{
+  "title":"link3",
+  "protocol":"https",
+  "url":"https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8"
+
+  }
+
   }
   
 ]
