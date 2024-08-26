@@ -167,6 +167,13 @@
   "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6365779dde08f8eec6c3f21f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Az5NKUy5xysB27sqD5xd"
 
   }
+  },
+  {
+  "chaine":{
+  "title":"link23",
+  "protocol":"https",
+  "url":"https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
+  }
   }
   
 ]
