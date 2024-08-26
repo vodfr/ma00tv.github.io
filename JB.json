@@ -150,6 +150,15 @@
   "url":"https://amg01796-fastmediabackbo-enquetesdechoc-samsungfr-s0s2i.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8"
 
   }
+  },
+  
+  {
+  "chaine":{
+  "title":"link21",
+  "protocol":"https",
+  "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e6x6iC-Tv9htD8ff3UmX"
+
+  }
   }
   
 ]
