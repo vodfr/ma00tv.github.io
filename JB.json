@@ -73,7 +73,14 @@
    "url":"https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8"
    }
 
-  }
+  },
+  {
+  "chaine":{
+  "title":"link8",
+  "protocol":"https",
+  "url":"https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
 
+  }
+  }
   
 ]
