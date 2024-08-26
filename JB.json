@@ -197,5 +197,12 @@
   "protocol":"http",
   "url":"http://212.102.60.80/Infosport/index.m3u8"
   }
+  },
+  {
+  "chaine":{
+  "title":"link27",
+  "protocol":"https",
+  "url":"https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8"
+  }
   }
 ]
