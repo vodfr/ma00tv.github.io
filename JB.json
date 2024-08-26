@@ -159,6 +159,14 @@
   "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e6x6iC-Tv9htD8ff3UmX"
 
   }
+  },
+  {
+  "chaine":{
+ "title":"link22",
+ "protocol":"https",
+  "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6365779dde08f8eec6c3f21f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Az5NKUy5xysB27sqD5xd"
+
+  }
   }
   
 ]
