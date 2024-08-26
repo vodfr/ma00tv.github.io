@@ -8,9 +8,18 @@
   },
   {
     "chaine": {
-      "title": "link2",
+      "title": "link15",
+      "protocol": "http",
+      "url": "http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w1073138473.m3u8"
+    
+    }
+  },
+  
+  {
+    "chaine": {
+      "title": "link4",
       "protocol": "https",
-      "url": ""
+      "url": "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
     
     }
   }
