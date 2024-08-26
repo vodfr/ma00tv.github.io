@@ -91,7 +91,14 @@
   }
 
   },
-  
+  {
+  "chaine":{
+  "title":"link9",
+  "protocol":"https",
+  "url":"https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8"
+
+  }
+  },
   {
   "chaine":{
    "title":"link10",
