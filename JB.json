@@ -27,7 +27,7 @@
   {
     "chaine": {
       "title": "link16",
-      "protocol": "https",
+      "protocol": "http",
       "url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist_w1860252592.m3u8"
     
     }
