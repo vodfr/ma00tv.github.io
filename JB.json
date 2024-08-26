@@ -40,6 +40,15 @@
       "url": ""
     
     }
-  }
+  },
+{
+    "chaine": {
+      "title": "link7",
+      "protocol": "https",
+      "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=oiMkTwgG9CW4HsKfGwsp"
+    
+    }
+}
+
   
 ]
