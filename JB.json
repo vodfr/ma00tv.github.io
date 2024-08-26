@@ -81,6 +81,15 @@
   "url":"https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
 
   }
+  },
+  {
+  "chaine":{
+   "title":"link5",
+   "protocol":"https",
+    "url":"https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8"
+
+  }
+
   }
   
 ]
