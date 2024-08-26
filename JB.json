@@ -174,6 +174,22 @@
   "protocol":"https",
   "url":"https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
   }
+  },
+  
+  {
+  "chaine":{
+  "title":"link24",
+  "protocol":"https",
+  "url":"https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8"
+  }
+  },
+  
+  {
+  "chaine":{
+  "title":"link25",
+  "protocol":"https",
+  "url":"https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8"
+  }
   }
   
 ]
