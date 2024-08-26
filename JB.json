@@ -115,6 +115,14 @@
   "url":"https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8"
 
   }
+  },
+  {
+  "chaine":{
+  "title":"link18",
+  "protocol":"https",
+  "url":"https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
+
+  }
   }
   
 ]
