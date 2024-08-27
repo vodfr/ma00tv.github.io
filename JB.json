@@ -270,5 +270,12 @@
 
  }
 
+ },
+ {
+ "chaine":{
+ "title":"link36",
+ "protocol":"https",
+  "url":"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner"
+ }
  }
 ]
