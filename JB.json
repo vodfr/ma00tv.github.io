@@ -220,5 +220,14 @@
   }
 
 
+  },
+  {
+  "chaine":{
+  "title":"link30",
+  "protocol":"https",
+  "url":"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8"
+
+  }
+
   }
 ]
