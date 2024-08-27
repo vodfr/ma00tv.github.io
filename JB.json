@@ -211,5 +211,14 @@
   "protocol":"https",
   "url":"https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"
   }
+  },
+  {
+  "chaine":{
+  "title":"link29",
+  "protocol":"https",
+  "url":"https://helga.iptv2022.com/sh/GOLDEN_SWEET_TV/index.m3u8"
+  }
+
+
   }
 ]
