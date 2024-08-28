@@ -393,5 +393,13 @@
   }
 
 
+ },
+ {
+ "chaine":{
+ "title":"link50",
+  "protocol":"https",
+  "url":"https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"
+ }
+
  }
 ]
