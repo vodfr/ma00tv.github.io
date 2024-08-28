@@ -401,5 +401,14 @@
   "url":"https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"
  }
 
+ },
+ {
+  "chaine":{
+  "title":"link51",
+   "protocol":"https",
+   "url":"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner="
+
+  }
+
  }
 ]
