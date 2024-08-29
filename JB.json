@@ -466,5 +466,16 @@
 
   }
 
+ },
+
+ 
+ {
+  "chaine":{
+  "title":"link58",
+   "protocol":"https",
+   "url":"https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8"
+
+  }
+
  }
 ]
