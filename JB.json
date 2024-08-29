@@ -490,7 +490,7 @@
  {
 "chaine":{
  "title":"link60",
- "protocol":"https",
+ "protocol":"http",
  "url":"http://htvajyalint.mada.ps:8888/ajyalint/index.m3u8"
 
 }
