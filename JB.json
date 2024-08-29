@@ -486,5 +486,14 @@
 
 
   }
+ },
+ {
+"chaine":{
+ "title":"link60",
+ "protocol":"https",
+ "url":"http://htvajyalint.mada.ps:8888/ajyalint/index.m3u8"
+
+}
+
  }
 ]
