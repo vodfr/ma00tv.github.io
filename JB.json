@@ -477,5 +477,14 @@
 
   }
 
+ },
+ {
+  "chaine":{
+  "title":"link59",
+   "protocol":"https",
+   "url":"https://live-uefa-com.akamaized.net/hls/live/2036934/290824_UCLGS/master.m3u8"
+
+
+  }
  }
 ]
