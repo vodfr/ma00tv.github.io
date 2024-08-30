@@ -513,5 +513,13 @@
    "url":"https://bkm.beetv.kz/btv/live/hls/000003038.m3u8"
 
   }
- }
+ },
+{
+"chaine":{
+"title":"link63",
+ "protocol":"https",
+ "url":"https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/643d995f79cd3b7d4c054f6d/266.m3u8"
+
+}
+}
 ]
