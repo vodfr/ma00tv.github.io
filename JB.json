@@ -518,14 +518,16 @@
   "chaine":{
   "title":"link63",
    "protocol":"https",
-   "url":"https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END"
+   "url":"https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&bpkio_sessionid=10f0e5c229-6b3c9cf4-7a5f-43b8-8d9f-e7bdac1e3f7e&category=all"
 
 
   }
  },
  {
  "chaine":{
- "title":"
+ "title":"",
+  "protocol":"",
+  "url":""
 
  }
 
