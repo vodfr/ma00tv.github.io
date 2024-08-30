@@ -495,5 +495,15 @@
 
 }
 
+ },
+ {
+ "chaine":{
+ "title":"link61",
+  "protocol":"https",
+  "url":"https://italiansport-solocalcio-samsung.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&gdpr=%7BGDPR%7D/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8"
+
+ }
+
+
  }
 ]
