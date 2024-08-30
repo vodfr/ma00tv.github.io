@@ -518,9 +518,16 @@
   "chaine":{
   "title":"link63",
    "protocol":"https",
-   "url":"https://tmp3-cdn-edge-live07.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=09s9gp4sn8pg09edkt90/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END"
+   "url":"https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END"
 
 
   }
+ },
+ {
+ "chaine":{
+ "title":"
+
+ }
+
  }
 ]
