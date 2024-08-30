@@ -540,5 +540,13 @@
 
 }
 
-}
+},
+ {
+ "chaine":{
+  "title":"link66",
+  "protocol":"https",
+  "url":"https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b3596000_slENG.m3u8"
+ }
+
+ }
 ]
