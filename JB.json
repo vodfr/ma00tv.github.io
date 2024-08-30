@@ -569,5 +569,14 @@
 
 
   }
+ },
+ {
+ "chaine":{
+ "title":"link69",
+  "protocol":"https",
+  "url":"https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8"
+
+ }
+
  }
 ]
