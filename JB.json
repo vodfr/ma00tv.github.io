@@ -504,5 +504,14 @@
   }
 
 
+ },
+
+ {
+  "chaine":{
+   "title":"link62",
+   "protocol":"https",
+   "url":"https://bkm.beetv.kz/btv/live/hls/000003038.m3u8"
+
+  }
  }
 ]
