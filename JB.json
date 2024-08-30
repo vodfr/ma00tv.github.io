@@ -548,5 +548,17 @@
   "url":"https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b3596000_slENG.m3u8"
  }
 
+ },
+ {
+ "chaine":{
+  "title":"link67",
+  "protocol":"https",
+  "url":"https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_StrongmanChampionsLeague/playlist.m3u8"
+
+
+
+ }
+
+
  }
 ]
