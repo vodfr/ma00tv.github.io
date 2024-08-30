@@ -586,7 +586,12 @@
    "url":"https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8"
 
   }
-
-
- }
+ },
+{
+"chaine":{
+"title":"link71",
+ "protocol":"https",
+ "url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
+}
+}
 ]
