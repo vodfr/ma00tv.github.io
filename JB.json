@@ -712,5 +712,14 @@
   "protocol":"https",
   "url":"https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8"
  }
+ },
+ {
+  "chaine":{
+  "title":"wresteling",
+   "protocol":"https",
+   "url":"https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8"
+
+  }
+
  }
 ]
