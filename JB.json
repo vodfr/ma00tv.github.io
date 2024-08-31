@@ -721,5 +721,14 @@
 
   }
 
+ },
+ {
+ "chaine":{
+  "title":"spacetoon",
+  "protocol":"https",
+  "url":"https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/index.m3u8"
+
+
+ }
  }
 ]
