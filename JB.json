@@ -740,5 +740,13 @@
 
  }
 
+ },
+ {
+ "chaine":{
+ "title":"camerasmile",
+  "protocol":"https",
+  "url":"https/bozztv.com/gusa/gusa-camerasmile/index.m3u8"
+ }
+
  }
 ]
