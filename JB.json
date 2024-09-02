@@ -776,5 +776,14 @@
 
 }
 
+ },
+ 
+ {
+"chaine":{
+"title":"supersport1",
+ "protocol":"https",
+ "url":"https://bong.ink/zone-11.m3u8"
+}
+
  }
 ]
