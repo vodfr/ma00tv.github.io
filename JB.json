@@ -694,7 +694,7 @@
  "chaine":{
  "title":"live_foot1",
   "protocol":"https",
-  "url":"https://j2.livesd.online/hls/0/stream.m3u8"
+  "url":"https://j1.livesd.online/hls/0/stream.m3u8"
 
  }
  },
@@ -703,7 +703,7 @@
  "chaine":{
  "title":"live_foot2",
   "protocol":"https",
-  "url":"https://j2.livesd.online/hls/1/stream.m3u8"
+  "url":"https://j1.livesd.online/hls/1/stream.m3u8"
  }
  },
  {
