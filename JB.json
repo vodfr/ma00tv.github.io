@@ -804,5 +804,13 @@
 
  }
 
+ },
+ {
+ "chaine":{
+  "title":"tvs",
+  "protocol":"https",
+  "url":"https://bozztv.com/gusa/gusa-hitops/index.m3u8"
+
+ }
  }
 ]
