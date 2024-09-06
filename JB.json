@@ -785,5 +785,15 @@
  "url":"https://bong.ink/zone-11.m3u8"
 }
 
+ },
+ {
+  "chaine":{
+  "title":"masterfight",
+   "protocol":"https",
+   "url":"https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-Nuestra/266.m3u8"
+
+  }
+
+
  }
 ]
