@@ -865,7 +865,17 @@
 
 }
 
+},
+
+ {
+"chaine":{
+"title":"tf1s",
+ "protocol":"https",
+"url":"https://live-tsf-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MC4xOC4xMjguMjU0IiwiY21jZCI6IiIsImV4cCI6MTcyNTgzNzU4NywiZ2lkIjoiMDQ2Yjk1MjMtNzA3ZC00NzYzLTgxYzYtZTQzNTU0MTIxN2Q1IiwiaWF0IjoxNzI1ODIzMTg3LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzk5OTA2NzFiOTY2MzRkNzk5NTUyMzU4MzUyYjI1NzBhL3RmMS1zZXJpZXMtZmlsbS1jbWFmIiwic3ViIjoiMDQ2Yjk1MjMtNzA3ZC00NzYzLTgxYzYtZTQzNTU0MTIxN2Q1In0.357Ph1KzdcI9YAeC7I08pghcuvxzdoBwO1U4dYsXLcU/out/v1/9990671b96634d799552358352b2570a/tf1-series-film-cmaf/index.m3u8"
+
+
 }
+ }
  
 
 ]
