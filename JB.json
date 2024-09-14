@@ -837,35 +837,16 @@
  
 {
 "chaine":{
-"title":"lfoot480p",
+"title":"lfoot",
  "protocol":"https",
- "url":"https://live-b2.cf.dmcdn.net/sec2(MJo-sdKO_wPruZBoyfXb_RqWe0f64vtXNk59bF7u18iNLixUGg3etIkhLlunIU52UIbb8_i38yNgD4Ewb7maFmQD5T0Lh1u364d82Z9Clw8)/cloud/3/x6hd0e1/d/live-480@60.m3u8#cell=lcfb2"
+ "url":"https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8"
 
 }
 
 },
  
-{
-"chaine":{
-"title":"lfoot720p",
- "protocol":"https",
- "url":"https://live-b2.cf.dmcdn.net/sec2(MJo-sdKO_wPruZBoyfXb_RqWe0f64vtXNk59bF7u18iNLixUGg3etIkhLlunIU52UIbb8_i38yNgD4Ewb7maFmQD5T0Lh1u364d82Z9Clw8)/cloud/3/x6hd0e1/d/live-720@60.m3u8#cell=lcfb2"
 
-}
 
-},
- 
- 
-
-{
-"chaine":{
-"title":"lfoot1080p",
- "protocol":"https",
- "url":"https://live-b2.cf.dmcdn.net/sec2(MJo-sdKO_wPruZBoyfXb_RqWe0f64vtXNk59bF7u18iNLixUGg3etIkhLlunIU52UIbb8_i38yNgD4Ewb7maFmQD5T0Lh1u364d82Z9Clw8)/cloud/3/x6hd0e1/d/live-1080@60.m3u8#cell=lcfb2"
-
-}
-
-},
 
  {
 "chaine":{
