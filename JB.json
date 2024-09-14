@@ -874,6 +874,18 @@
 
 }
 
+ },
+ {
+  "chaine":{
+   "title":"omega",
+   "protocol":"https",
+   "url":"https://video1.getstreamhosting.com:1936/8318/8318/index.m3u8"
+
+
+
+  }
+
+
  }
  
 
