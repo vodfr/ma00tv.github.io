@@ -884,6 +884,15 @@
 
   }
 
+ },
+ {
+"chaine":{
+"title":"divin",
+ "protocol":"https",
+ "url":"https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8"
+
+}
+
  }
  
 
