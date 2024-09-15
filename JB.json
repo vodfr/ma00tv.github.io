@@ -907,7 +907,17 @@
 
 }
 
- }
+ },
+{
+"chaine":{
+"title":"south_park",
+"protocol":"https",
+ "url":"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618e34ac4a270700077b1f32/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner"
+
+}
+
+
+}
  
 
 ]
