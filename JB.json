@@ -886,6 +886,23 @@
   }
 
 
+ },
+ {
+"chaine":{
+"title":"livef",
+ "protocol":"https",
+ "url":"https://a1.livesd.online/hls/0/stream.m3u8"
+
+}
+ },
+ {
+"chaine": {
+"title":"xilam",
+ "protocol":"https",
+ "url":"https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8"
+
+}
+
  }
  
 
