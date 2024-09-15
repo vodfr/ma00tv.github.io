@@ -958,6 +958,16 @@
 
 }
 
+ },
+ {
+"chaine":{
+"title":"rmc_alert",
+ "protocol":"https",
+ "url":"https://jmp2.uk/sam-FR30000271.m3u8"
+
+}
+
+
  }
  
 
