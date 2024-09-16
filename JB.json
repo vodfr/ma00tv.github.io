@@ -1021,5 +1021,14 @@
  
  
 }
-}
+},
+ {
+ "chaine":{
+ "title":"docstory",
+ "protocol":"https",
+ "url":"https://jmp2.uk/sam-FRBC4200005X2.m3u8"
+ 
+ }
+
+ }
 ]
