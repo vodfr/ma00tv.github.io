@@ -1039,5 +1039,16 @@
  "url":"https://jmp2.uk/sam-FR1200001N2.m3u8"
   
  }
+ },
+{
+ "chaine":{
+  "title":"bfmgr",
+  "protocol":"https",
+  "url":"https://jmp2.uk/sam-FR300004J5.m3u8"
+
+
  }
+
+}
+
 ]
