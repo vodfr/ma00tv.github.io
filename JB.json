@@ -1003,7 +1003,24 @@
 
 }
 
- }
+ },
+{
+ "chaine":{
+ "title":"lequipe1",
+ "protocol":"https",
+ "url":"https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8"
  
-
+ 
+}
+},
+ 
+{
+ "chaine":{
+ "title":"lequipe2",
+ "protocol":"https",
+ "url":"https://jmp2.uk/sam-FRBC4200005X2.m3u8"
+ 
+ 
+}
+}
 ]
