@@ -1133,6 +1133,14 @@
   }
 
 
+ },
+ {
+"chaine":{
+"title":"livef2",
+ "protocol":"https",
+ "url":"https://r2.livesd.online/hls/0/stream.m3u8"
+
+}
  }
  
 
