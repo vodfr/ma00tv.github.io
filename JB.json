@@ -1219,6 +1219,15 @@
  "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=sYbHXiq_FKQM1pVFmCcs"
 
 }
+ },
+ {
+"chaine":{
+"title":"runtime",
+ "protocol":"https",
+ "url":"https://jmp2.uk/sam-FRBB50000016B.m3u8"
+
+}
+
  }
 
 ]
