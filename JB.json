@@ -1150,6 +1150,15 @@
 
 }
 
+ },
+ {
+  "chaine":{
+"title":"hiyah",
+"protocol":"https",
+"url":"https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8"
+
+  }
+
  }
  
 
