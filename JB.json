@@ -1238,6 +1238,13 @@
  }
 
 
+ },
+ {
+"chaine":{
+"title":"lfoot3",
+ "protocol":"https",
+ "url":"https://r3.livesd.online/hls/0/stream.m3u8"
+}
  }
 
 ]
