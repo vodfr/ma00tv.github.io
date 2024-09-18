@@ -1169,7 +1169,16 @@
 
 }
 
+ },
+ {
+  "chaine":{
+"title":"rtfrance",
+"protocol":"https",
+ "url":"https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8"
+
+  }
+
+
  }
- 
 
 ]
