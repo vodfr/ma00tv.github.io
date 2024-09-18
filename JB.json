@@ -1228,6 +1228,16 @@
 
 }
 
+ },
+ {
+ "chaine":{
+"title":"hfavoris",
+"protocol":"https",
+ "url":"https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8"
+
+ }
+
+
  }
 
 ]
