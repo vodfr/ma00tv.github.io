@@ -1297,6 +1297,14 @@
 
 
 }
+ },
+ {
+"chaine":{
+"title":"pet_collective",
+"protocol":"https",
+ "url":"https://jmp2.uk/plu-5f8ecd336d64c9000754cdf1-alt.m3u8"
+
+}
  }
 
 ]
