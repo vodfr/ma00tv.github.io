@@ -1330,6 +1330,14 @@
 
 }
 
+ },
+ {
+"chaine":{
+"title":"mix",
+ "protocol":"https",
+ "url":"https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8"
+
+}
  }
 
 ]
