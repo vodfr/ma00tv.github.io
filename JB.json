@@ -1321,6 +1321,15 @@
  "protocol":"https",
   "url":"https://jmp2.uk/plu-64c1093824ade50008bd117f-alt.m3u8"
  }
+ },
+ {
+"chaine":{
+"title":"victorious",
+ "protocol":"https",
+ "url":"https://jmp2.uk/plu-64bab8830e086a0009d44273-alt.m3u8"
+
+}
+
  }
 
 ]
