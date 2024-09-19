@@ -1270,6 +1270,14 @@
 
 }
 
+ },
+ {
+"chaine":{
+"title":"techco",
+ "protocol":"https",
+ "url":"https://jmp2.uk/sam-FRBD4100010ZZ.m3u8"
+
+}
  }
 
 ]
