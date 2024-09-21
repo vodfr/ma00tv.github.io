@@ -1373,6 +1373,27 @@
 
 }
 
+ },
+
+ {
+"chaine":{
+"title":"mytime",
+ "protocol":"https",
+ "url":"https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+
+}
+
+ },
+
+ {
+"chaine":{
+"title":"lfoot7",
+ "protocol":"https",
+ "url":"https://a1.cdnlive.online/hls/0/stream.m3u8"
+
+}
+  
  }
+ 
 
 ]
