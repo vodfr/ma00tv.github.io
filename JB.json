@@ -1364,6 +1364,15 @@
  "url":"https://jmp2.uk/sam-FRBD26000031Q.m3u8"
 
 }
+ },
+ {
+"chaine":{
+"title":"rfamily",
+ "protocol":"https",
+ "url":"https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8"
+
+}
+
  }
 
 ]
