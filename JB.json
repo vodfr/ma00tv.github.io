@@ -1412,7 +1412,16 @@
 
 }
  
- }
+ },
+
+
+ {
+"chaine":{
+"title":"yogiyoh",
+ "protocol":"https",
+ "url":"https://fastmedia-yu-gi-oh-4-fr.rakuten.wurl.tv/playlist.m3u8"
+}
  
+ }
 
 ]
