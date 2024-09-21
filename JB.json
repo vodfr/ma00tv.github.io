@@ -1393,6 +1393,15 @@
 
 }
   
+ },
+ {
+"chaine":{
+"title":"lequipe_foot",
+ "protocol":"https",
+ "url":"https://live-b2.cf.dmcdn.net/sec2(3_NnSGBnF3GWcDI_zpkItiC30C-rPSVHMfQ5Ck_ZjudgTys-crXOKz2gm-iQJKcyFQzeruncopeUvxy3pEjrtVs2-TC-U-EKJTtgGWMVoUY)/cloud/3/x6hd0e1/d/live-480@60.m3u8#cell=lcfb2"
+
+}
+  
  }
  
 
