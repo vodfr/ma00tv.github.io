@@ -1450,8 +1450,16 @@
 
   }
 
+ },
+
+ {
+  "chaine":{
+"title":"dossier_fbi",
+ "protocol":"https",
+  "url":"https://jmp2.uk/plu-5f8edad922b10b000753bc37-alt.m3u8"
+
+  }
+
  }
- 
- 
 
 ]
