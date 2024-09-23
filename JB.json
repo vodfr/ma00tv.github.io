@@ -1489,6 +1489,14 @@
 
 }
 
+ },
+ {
+  "chaine":{
+"title":"japonimtv",
+ "protocol":"https",
+ "url":"https://foxkidstv.be:3369/stream/play.m3u8"
+  }
+
  }
  
 
