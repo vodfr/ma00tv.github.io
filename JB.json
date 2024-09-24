@@ -1497,6 +1497,14 @@
  "url":"https://foxkidstv.be:3369/stream/play.m3u8"
   }
 
+ },
+ {
+"chaine":{
+"title":"cartoons",
+ "protocol":"https",
+ "url":"https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8"
+
+}
  }
  
 
