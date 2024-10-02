@@ -1593,6 +1593,16 @@
  "protocol":"https",
  "url":"https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8"
 }
+},
+
+ 
+ {
+"chaine":{
+ "title":"abudhabi",
+ "protocol":"https",
+ "url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8"
 }
+ }
+ 
  
 ]
