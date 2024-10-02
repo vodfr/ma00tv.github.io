@@ -379,7 +379,7 @@
  "chaine":{
  "title":"link48",
   "protocol":"https",
-  "url":"https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264"
+  "url":"https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264"
  }
 
  },
