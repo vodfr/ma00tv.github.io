@@ -1602,7 +1602,17 @@
  "protocol":"https",
  "url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8"
 }
- }
+ },
+
+  {
+"chaine":{
+ "title":"myzen",
+ "protocol":"https",
+ "url":"https://str81.creacast.com/myzentv/myzentv.smil/chunklist_w469830465_b500000_vo_t64MzYw.m3u8"
+}
+  }
+
+ 
  
  
 ]
