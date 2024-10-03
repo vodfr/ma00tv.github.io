@@ -1666,7 +1666,15 @@
  "protocol":"https",
  "url":"https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?stime=20240926153057&etime=20241003215737&token=024c78070416596278919"
 }
+ },
+ 
+ {
+"chaine":{
+ "title":"sharkdisc",
+ "protocol":"https",
+ "url":"https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+}
  }
-
+ 
  
 ]
