@@ -1673,6 +1673,14 @@
  "protocol":"https",
  "url":"https://edge66.magictvbox.com/liveApple/AlWathaeqya/tracks-v1a1/index.m3u8"
 }
+ },
+ 
+ {
+"chaine":{
+ "title":"wild_earth",
+ "protocol":"https",
+ "url":"https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8"
+}
  }
  
  
