@@ -37,16 +37,14 @@
     "chaine": {
       "title": "link19",
       "protocol": "http",
-      "url": "http://51.178.65.238/BeinSport/mono.m3u8"
-    
+      "url": "http://51.178.65.238/BeinSport/mono.m3u8"   
     }
   },
 {
     "chaine": {
       "title": "link7",
       "protocol": "https",
-      "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=oiMkTwgG9CW4HsKfGwsp"
-    
+      "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=oiMkTwgG9CW4HsKfGwsp"    
     }
 },
   {
@@ -54,7 +52,6 @@
       "title": "link12",
       "protocol": "https",
       "url": "https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8"
-    
     }
   },
   
@@ -63,7 +60,6 @@
       "title": "link6",
       "protocol": "https",
       "url": "https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8"
-    
     }
   },
   {
@@ -72,14 +68,12 @@
    "protocol":"https",
    "url":"https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8"
    }
-
   },
   {
   "chaine":{
   "title":"link8",
   "protocol":"https",
   "url":"https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
-
   }
   },
   {
@@ -87,16 +81,13 @@
    "title":"link5",
    "protocol":"https",
     "url":"https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8"
-
   }
-
   },
   {
   "chaine":{
   "title":"link9",
   "protocol":"https",
   "url":"https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8"
-
   }
   }, 
   {
@@ -104,16 +95,13 @@
    "title":"link10",
    "protocol":"https",
     "url":"https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8"
-
   }
-
   },
   {
   "chaine":{
   "title":"link11",
   "protocol":"https",
   "url":"https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8"
-
   }
   },
   {
@@ -121,7 +109,6 @@
   "title":"link18",
   "protocol":"https",
   "url":"https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
-
   }
   },
   {
@@ -129,35 +116,27 @@
   "title":"link2",
   "protocol":"https",
   "url":"https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8"
-
   }
-
-  },
-  
+  },  
   {
   "chaine":{
   "title":"link3",
   "protocol":"https",
   "url":"https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8"
-
   }
-
   },
   {
   "chaine":{
   "title":"link20",
   "protocol":"https",
   "url":"https://amg01796-fastmediabackbo-enquetesdechoc-samsungfr-s0s2i.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8"
-
   }
-  },
-  
+  },  
   {
   "chaine":{
   "title":"link21",
   "protocol":"https",
   "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e6x6iC-Tv9htD8ff3UmX"
-
   }
   },
   {
@@ -165,7 +144,6 @@
  "title":"link22",
  "protocol":"https",
   "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6365779dde08f8eec6c3f21f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Az5NKUy5xysB27sqD5xd"
-
   }
   },
   {
@@ -174,16 +152,14 @@
   "protocol":"https",
   "url":"https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
   }
-  },
-  
+  }, 
   {
   "chaine":{
   "title":"link24",
   "protocol":"https",
   "url":"https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8"
   }
-  },
-  
+  },  
   {
   "chaine":{
   "title":"link25",
@@ -218,8 +194,6 @@
   "protocol":"https",
   "url":"https://helga.iptv2022.com/sh/GOLDEN_SWEET_TV/index.m3u8"
   }
-
-
   },
   {
   "chaine":{
@@ -235,18 +209,14 @@
   "title":"link31",
   "protocol":"https",
   "url":"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner"
-
   }
-
   },
  {
   "chaine":{
   "title":"link32",
   "protocol":"https",
   "url":"https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e2d000418d00070f7dbc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b104-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=05e57977-cc39-4403-b3e6-4865a2677ec1"
-
   }
-
  },
  {
  "chaine":{
@@ -267,9 +237,7 @@
  "title":"link35",
  "protocol":"https",
   "url":"https://new.cache-stream.workers.dev/stream/UCCCPCZNChQdGa9EkATeye4g/live.m3u8"
-
  }
-
  },
  {
  "chaine":{
@@ -283,17 +251,13 @@
  "title":"link37",
  "protocol":"https",
  "url":"https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4bcb3a3-c66e-47ef-80c5-fcf29cba6e6a"
-  
-
  }
-
  },
  {
   "chaine":{
    "title":"link38",
    "protocol":"https",
    "url":"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner="
-
   }
  },
  {
@@ -301,8 +265,6 @@
   "title":"link39",
   "protocol":"https",
   "url":"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner"
-   
-
   }
  },
  {
@@ -310,7 +272,6 @@
   "title":"link40",
    "protocol":"https",
    "url":"https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d44-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bae761e4-0e1a-4102-8f5e-fa657934946c"
-
   }
  },
  {
@@ -357,42 +318,28 @@
   "title":"link46",
   "protocol":"https",
   "url":"https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8"
-
-
   }
-
  },
-
- 
  {
   "chaine":{
   "title":"link47",
   "protocol":"https",
   "url":"https://rakutenaa-zylo-cinenanar-rakuten-rgmak.amagi.tv/playlist/rakutenAA-zylo-cinenanar-rakuten/playlist.m3u8"
-
-
   }
-
  },
-
  {
  "chaine":{
  "title":"link48",
   "protocol":"https",
   "url":"https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264"
  }
-
  },
-
  {
   "chaine":{
   "title":"link49",
    "protocol":"https",
    "url":"https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"
-
   }
-
-
  },
  {
  "chaine":{
@@ -400,18 +347,14 @@
   "protocol":"https",
   "url":"https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8"
  }
-
  },
  {
   "chaine":{
   "title":"link51",
    "protocol":"https",
    "url":"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner="
-
   }
-
  },
-
 {
  "chaine":{
  "title":"link52",
@@ -425,66 +368,47 @@
   "protocol":"https",
   "url":"https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8"
  }
-
  },
-
  {
  "chaine":{
   "title":"link54",
   "protocol":"https",
   "url":"https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6"
-
-
  }
-
  },
 {
   "chaine":{
   "title":"link55",
    "protocol":"https",
    "url":"https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8"
-
   }
-
-
 },
  {
   "chaine":{
   "title":"link56",
    "protocol":"https",
    "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=sstrf-pBzzmL6TMtq2_t"
-
-
   }
-
  },
  {
   "chaine":{
   "title":"link57",
    "protocol":"https",
    "url":"https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8"
-
   }
-
  },
-
- 
  {
   "chaine":{
   "title":"link58",
    "protocol":"https",
    "url":"https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8"
-
   }
-
  },
  {
   "chaine":{
   "title":"link59",
    "protocol":"https",
    "url":"https://live-uefa-com.akamaized.net/hls/live/2036934/290824_UCLGS/master.m3u8"
-
-
   }
  },
  {
@@ -492,9 +416,7 @@
  "title":"link60",
  "protocol":"http",
  "url":"http://htvajyalint.mada.ps:8888/ajyalint/index.m3u8"
-
 }
-
  },
  {
  "chaine":{
@@ -502,16 +424,12 @@
   "protocol":"https",
   "url":"https://italiansport-solocalcio-samsung.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&gdpr=%7BGDPR%7D/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8"
   }
-
-
  },
-
  {
   "chaine":{
    "title":"link62",
    "protocol":"https",
    "url":"https://bkm.beetv.kz/btv/live/hls/000003038.m3u8"
-
   }
  },
  {
@@ -519,8 +437,6 @@
   "title":"link63",
    "protocol":"https",
    "url":"https://trs1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=09tjdc5cangq1fc13lp0/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END"
-
-
   }
  },
  {
@@ -528,18 +444,14 @@
  "title":"link64",
   "protocol":"https",
   "url":"https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8"
-
  }
-
  },
 {
 "chaine":{
 "title":"link65",
  "protocol":"https",
  "url":"https://playworksdigital-ninjakidztv-1-us.vizio.wurl.tv/playlist.m3u8"
-
 }
-
 },
  {
  "chaine":{
@@ -547,27 +459,19 @@
   "protocol":"https",
   "url":"https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b3596000_slENG.m3u8"
  }
-
  },
  {
  "chaine":{
   "title":"link67",
   "protocol":"https",
   "url":"https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_StrongmanChampionsLeague/playlist.m3u8"
-
-
-
  }
-
-
  },
  {
   "chaine":{
    "title":"link68",
    "protocol":"https",
    "url":"https://linear-12.frequency.stream/dist/stirr/12/hls/master/playlist.m3u8"
-
-
   }
  },
  {
@@ -575,7 +479,6 @@
  "title":"link69",
   "protocol":"https",
   "url":"https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8"
-
  }
 
  },
@@ -753,67 +656,50 @@
   "title":"alarabiya",
    "protocol":"https",
    "url":"https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
-
-
   }
  },
-
  {
   "chaine":{
  "title":"alhadath",
    "protocol":"https",
    "url":"https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8"
-
   }
-
  },
  {
 "chaine":{
 "title":"justforlaughs",
  "protocol":"https",
  "url":"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-
 }
-
  },
- 
  {
 "chaine":{
 "title":"supersport1",
  "protocol":"https",
  "url":"https://bong.ink/zone-11.m3u8"
 }
-
  },
  {
   "chaine":{
   "title":"masterfight",
    "protocol":"https",
    "url":"https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-Nuestra/266.m3u8"
-
   }
-
-
  },
  {
  "chaine":{
  "title":"jami",
   "protocol":"https",
   "url":"https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff23-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=410cc83b-4396-41a0-b726-70e8f1e3fea4"
-
  }
-
  },
 {
  "chaine":{
   "title":"al_magharibia",
   "protocol":"https",
   "url":"https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8"
-
  }
-
 },
-
 {
  "chaine":{
   "title":"link80",
