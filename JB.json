@@ -1,5 +1,12 @@
 [
  {
+"chaine":{
+ "title":"taktv",
+ "protocol":"https",
+ "url":"https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/taken.m3u8"
+}
+ },
+ {
     "chaine": {
       "title": "link1",
       "protocol": "https",
@@ -1571,14 +1578,6 @@
  "title":"wild_earth_1080p",
  "protocol":"https",
  "url":"https://wildearth-plex.amagi.tv/masterR1080p.m3u8"
-}
- },
-
- {
-"chaine":{
- "title":"taktv",
- "protocol":"https",
- "url":"https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/taken.m3u8"
 }
  }
  
