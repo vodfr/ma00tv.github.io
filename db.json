@@ -1563,6 +1563,13 @@
  "protocol":"https",
  "url":"https://wildearth-plex.amagi.tv/masterR1080p.m3u8"
 }
- }
+ },
  
+ {
+"chaine":{
+ "title":"al_mashhad",
+ "protocol":"https",
+ "url":"https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8"
+}
+ }
 ]
