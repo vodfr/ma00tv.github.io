@@ -1547,8 +1547,7 @@
  "protocol":"https",
  "url":"https://edge66.magictvbox.com/liveApple/AlWathaeqya/tracks-v1a1/index.m3u8"
 }
- },
- 
+ }, 
  {
 "chaine":{
  "title":"wild_earth",
@@ -1556,20 +1555,25 @@
  "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=fyiWwrJjxP__yU1uLtGS"
 }
  },
- 
  {
 "chaine":{
  "title":"wild_earth_1080p",
  "protocol":"https",
  "url":"https://wildearth-plex.amagi.tv/masterR1080p.m3u8"
 }
- },
- 
+ }, 
  {
 "chaine":{
  "title":"al_mashhad",
  "protocol":"https",
  "url":"https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8"
+}
+ },
+ {
+"chaine":{
+ "title":"adn",
+ "protocol":"https",
+ "url":"https://jmp2.uk/sam-FRBD5100001ZA.m3u8"
 }
  }
 ]
