@@ -1575,5 +1575,12 @@
  "protocol":"https",
  "url":"https://jmp2.uk/sam-FRBD5100001ZA.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"gulli",
+ "protocol":"https",
+ "url":"https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8"
+}
  }
 ]
