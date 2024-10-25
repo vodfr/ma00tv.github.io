@@ -1611,5 +1611,12 @@
  "protocol":"https",
  "url":"https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"link104",
+ "protocol":"https",
+ "url":"https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8"
+}
  }
 ]
