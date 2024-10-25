@@ -1582,5 +1582,12 @@
  "protocol":"https",
  "url":"https://jmp2.uk/sam-FRBD5100002NL.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"sama_dubai",
+ "protocol":"https",
+ "url":"https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8"
+}
  }
 ]
