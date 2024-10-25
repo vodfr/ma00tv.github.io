@@ -1597,6 +1597,13 @@
  "protocol":"https",
  "url":"https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"link102",
+ "protocol":"https",
+ "url":"https://player.tlfaz.com/playlist/TVVEeVNrNW1ndE02bEtxbzdnZU5Zemp4dldzUWVRMmZxaUNEZ2d2K1R6UVVnREJQSWtxeFFwMHZCRVhHZGIyZ0ZHenRBY2ZhZmsrVFdFOUVwWTkrUUE9PQ,,/master.m3u8?token=UE45eFBOY0pTYkZjbklaRzRxVmFCeEVtT3lzNkswMHZJRm91MDdXa0Zhbno2OEVWQllaVERzVlYvY1hkaHNBVklVc1VJNnJ1NTFIbldJMVhUM2lia2c9PQ,,"
+}
  }
  
 ]
