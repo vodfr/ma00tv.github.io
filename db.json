@@ -143,7 +143,7 @@
   "chaine":{
   "title":"link21",
   "protocol":"https",
-  "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e6x6iC-Tv9htD8ff3UmX"
+  "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=U_8iib-8Hyi-seaUkuAa"
   }
   },
   {
@@ -718,14 +718,7 @@
  "url":"https://live-b2.cf.dmcdn.net/sec2(W363schHKlS_Zbfa4A4MXdRVh0zOvFLS8CzavNOX-bVROuDAnEhLS5eo--iPkzIZ7PcwPJkEW4_QBgwFAPxnGRd_XDtNhHqpgtbXy21GJic)/cloud/3/x6hd0e1/d/live-480@60.m3u8#cell=lcfb2"
 
 }
-
 },
- 
-
-
-
- 
- 
  {
 "chaine":{
 "title":"divin",
