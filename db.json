@@ -1646,5 +1646,13 @@
  "protocol":"https",
  "url":"https://weyyak-live.akamaized.net/weyyak_action/index.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"link110",
+ "protocol":"https",
+ "url":"https://lds-realwild-vizio.amagi.tv/playlist.m3u8"
+}
  }
+ 
 ]
