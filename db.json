@@ -1625,5 +1625,12 @@
  "protocol":"https",
  "url":"https://edge66.magictvbox.com/liveApple/al_ahly_tv/tracks-v1a1/mono.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"link107",
+ "protocol":"https",
+ "url":"https://amg01796-fastmediabackbo-drivetv-samsungfr-k7n16.amagi.tv/playlist/amg01796-fastmediabackbo-drivetv-samsungfr/playlist.m3u8"
+}
  }
 ]
