@@ -1618,5 +1618,12 @@
  "protocol":"https",
  "url":"https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
 }
+ },
+{
+"chaine":{
+ "title":"link106",
+ "protocol":"https",
+ "url":"https://edge66.magictvbox.com/liveApple/al_ahly_tv/tracks-v1a1/mono.m3u8"
+}
  }
 ]
