@@ -1632,5 +1632,19 @@
  "protocol":"https",
  "url":"https://amg01796-fastmediabackbo-drivetv-samsungfr-k7n16.amagi.tv/playlist/amg01796-fastmediabackbo-drivetv-samsungfr/playlist.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"link108",
+ "protocol":"https",
+ "url":"https://edge66.magictvbox.com/liveApple/MBC_Action/tracks-v1a1/mono.m3u8"
+}
+ },
+ {
+"chaine":{
+ "title":"link109",
+ "protocol":"https",
+ "url":"https://weyyak-live.akamaized.net/weyyak_action/index.m3u8"
+}
  }
 ]
