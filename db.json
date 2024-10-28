@@ -646,7 +646,7 @@
   "chaine":{
   "title":"alarabiya",
    "protocol":"https",
-   "url":"https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
+   "url":"https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
   }
  },
  {
