@@ -1674,6 +1674,12 @@
  "protocol":"https",
  "url":"https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8"
 }
- }
- 
+ },
+ {
+"chaine":{
+ "title":"link114",
+ "protocol":"https",
+ "url":"https://live.alarabiya.net/alarabiapublish/arabiav.smil/playlist.m3u8"
+}
+ } 
 ]
