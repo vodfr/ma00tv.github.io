@@ -1654,10 +1654,16 @@
  "url":"https://lds-realwild-vizio.amagi.tv/playlist.m3u8"
 }
  },
-
  {
 "chaine":{
  "title":"link111",
+ "protocol":"https",
+ "url":"https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/index.m3u8"
+}
+ },
+ {
+"chaine":{
+ "title":"link112",
  "protocol":"https",
  "url":"https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/index.m3u8"
 }
