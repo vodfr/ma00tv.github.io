@@ -1688,5 +1688,12 @@
  "protocol":"https",
  "url":"https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8"
 }
+ },
+{
+"chaine":{
+ "title":"link116.",
+ "protocol":"https",
+ "url":"https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62a0b2aff4cf470007e47e29/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83f387-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b5cd2715-9b54-45e3-b10e-55e411cdc02d"
+ }
  }
 ]
