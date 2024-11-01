@@ -394,7 +394,7 @@
   "chaine":{
   "title":"link56",
    "protocol":"https",
-   "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=sstrf-pBzzmL6TMtq2_t"
+   "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=qt9PJi9Xj-GjN3p3r__J"
   }
  },
  {
@@ -1275,12 +1275,8 @@
 "title":"films_bollywood",
  "protocol":"https",
  "url":"https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c9260ac0222700089ee62blivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072631-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=364c137f-40b0-4bdd-a96c-0065bd886eaf&profilesFromStream=true"
-
 }
- 
  },
-
-
  {
 "chaine":{
 "title":"yogiyoh",
