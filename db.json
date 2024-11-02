@@ -699,7 +699,14 @@
  "url":"https://jmp2.uk/plu-6093f48c95132a00075fd859-alt.m3u8"
 }
  },
- {
+{
+"chaine":{
+"title":"justforlaughs6",
+ "protocol":"https",
+ "url":"https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64704954e536e0faaf10be9f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=KHwX9thsP1zKW7ss5tZt"
+}
+ },
+  {
 "chaine":{
 "title":"supersport1",
  "protocol":"https",
