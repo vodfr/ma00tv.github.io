@@ -1839,5 +1839,12 @@
  "protocol":"https",
  "url":"https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/stream_03/index.m3u8"
 }
+},
+{
+"chaine":{
+ "title":"link132",
+ "protocol":"https",
+ "url":"https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8?ap.debug=0&ap.pt=0&ap.sid=f0aaee66-bcf0-4bc0-a997-9b28ac340d8c"
+}
 }
 ]
