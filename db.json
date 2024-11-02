@@ -658,9 +658,45 @@
  },
  {
 "chaine":{
-"title":"justforlaughs",
+"title":"justforlaughs1",
  "protocol":"https",
- "url":"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+ "url":"https://jmp2.uk/plu-6177fd9812fe0c000726f9eb-alt.m3u8"
+}
+ },
+
+ {
+"chaine":{
+"title":"justforlaughs1",
+ "protocol":"https",
+ "url":"https://jmp2.uk/plu-6177fd9812fe0c000726f9eb-alt.m3u8"
+}
+ },
+ {
+"chaine":{
+"title":"justforlaughs2",
+ "protocol":"https",
+ "url":"https://jmp2.uk/plu-61780ce4c215ad0007a66ab2-alt.m3u8"
+}
+ },
+ {
+"chaine":{
+"title":"justforlaughs3",
+ "protocol":"https",
+ "url":"https://jmp2.uk/plu-61781878a3580d0008967df8-alt.m3u8"
+}
+ },
+ {
+"chaine":{
+"title":"justforlaughs4",
+ "protocol":"https",
+ "url":"https://jmp2.uk/plu-6093f48c95132a00075fd859-alt.m3u8"
+}
+ },
+ {
+"chaine":{
+"title":"justforlaughs5",
+ "protocol":"https",
+ "url":"https://jmp2.uk/plu-6093f48c95132a00075fd859-alt.m3u8"
 }
  },
  {
