@@ -1881,5 +1881,12 @@
  "protocol":"https",
  "url":"https://jmp2.uk/sam-ITBD10000019E.m3u8"
  }
+ },
+ {
+ "chaine":{
+ "title":"western_movies",
+ "protocol":"https",
+ "url":"https://jmp2.uk/sam-GBBD500007TG.m3u8"
  }
+ } 
 ]
