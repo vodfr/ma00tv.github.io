@@ -1916,5 +1916,12 @@
  "protocol":"https",
  "url":"https://jmp2.uk/sam-USBD27000156I.m3u8"
  }
+ },
+ {
+ "chaine":{
+ "title":"voyager_doc",
+ "protocol":"https",
+ "url":"https://jmp2.uk/plu-5ad8d1e9e738977e2c310925.m3u8"
+ }
  }
 ]
