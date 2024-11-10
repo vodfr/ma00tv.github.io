@@ -1478,7 +1478,13 @@
  "url":"https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"
 }
  },
-
+ {
+"chaine":{
+ "title":"rotana_kids",
+ "protocol":"https",
+ "url":"https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo"
+}
+ },
  {
 "chaine":{
  "title":"zee_alwan",
@@ -1500,8 +1506,6 @@
  "url":"https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8"
 }
 },
-
- 
  {
 "chaine":{
  "title":"abudhabi",
