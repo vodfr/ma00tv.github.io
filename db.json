@@ -1944,5 +1944,26 @@
  "protocol":"https",
  "url":"https://jmp2.uk/sam-FR1100001V1.m3u8"
  }
+ },
+ {
+ "chaine":{
+ "title":"bein1hd",
+ "protocol":"https",
+ "url":"https://flu.systemnet.tv/Bein.Hd.1/tracks-v1a1/mono.m3u8"
+ }
+ },
+ {
+ "chaine":{
+ "title":"bein2hd",
+ "protocol":"https",
+ "url":"https://flu.systemnet.tv/Bein.Hd.2/tracks-v1a1/mono.m3u8"
+ }
+ },
+ {
+ "chaine":{
+ "title":"bein3hd",
+ "protocol":"https",
+ "url":"https://flu.systemnet.tv/Bein.Hd.3/tracks-v1a1/mono.m3u8"
+ }
  }
 ]
