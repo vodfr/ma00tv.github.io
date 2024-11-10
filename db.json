@@ -1937,5 +1937,12 @@
  "protocol":"https",
  "url":"https://edge66.magictvbox.com/liveApple/panorama_food/tracks-v1a1/mono.m3u8"
  }
+ },
+ {
+ "chaine":{
+ "title":"passion_bollywood",
+ "protocol":"https",
+ "url":"https://jmp2.uk/sam-FR1100001V1.m3u8"
+ }
  }
 ]
