@@ -2102,5 +2102,13 @@
  "protocol":"https",
  "url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"mu",
+ "protocol":"https",
+ "url":"https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8"
+}
  } 
+ 
 ]
