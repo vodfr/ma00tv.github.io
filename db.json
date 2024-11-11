@@ -2095,5 +2095,12 @@
  "protocol":"https",
  "url":"https://f77zvuxbr89.a.trbcdn.net/reserv1/index.m3u8"
 }
- }
+ },
+ {
+"chaine":{
+ "title":"rm",
+ "protocol":"https",
+ "url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"
+}
+ } 
 ]
