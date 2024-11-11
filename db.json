@@ -1990,5 +1990,90 @@
  "protocol":"https",
  "url":"https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"bein1",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8"
+}
+ },
+ {
+"chaine":{
+ "title":"bein2",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8"
+}
+ },
+ {
+"chaine":{
+ "title":"bein3",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8"
+}
+ }, 
+ {
+"chaine":{
+ "title":"bein4",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8"
+}
+ }, 
+ {
+"chaine":{
+ "title":"bein5",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/beINSports5.m3u8"
+}
+ },
+ {
+"chaine":{
+ "title":"bein6",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8"
+}
+ },
+ {
+"chaine":{
+ "title":"ssc1",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/SSC1.m3u8"
+}
+ },
+  {
+"chaine":{
+ "title":"ssc2",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/SSC2.m3u8"
+}
+ },
+   {
+"chaine":{
+ "title":"ssc3",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/SSC3.m3u8"
+}
+ },
+   {
+"chaine":{
+ "title":"ssc4",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/SSC4.m3u8"
+}
+ },
+    {
+"chaine":{
+ "title":"ad1",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/AdSport1Premuim.m3u8"
+}
+ },
+ 
+    {
+"chaine":{
+ "title":"ad2",
+ "protocol":"https",
+ "url":"https://live4.beinconnect.us/YallaGoalApp/AdSport2Premuim.m3u8"
+}
  }
 ]
