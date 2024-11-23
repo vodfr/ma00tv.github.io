@@ -2182,6 +2182,13 @@
  },
  {
 "chaine":{
+ "title":"variety3",
+ "protocol":"https",
+ "url":"https://sparkforge.store/live/401703397/chunks.m3u8?bongls.com"
+}
+ },
+ {
+"chaine":{
  "title":"premier",
  "protocol":"https",
  "url":"https://aeroshift.store/live/1/chunks.m3u8?bongls.com"
