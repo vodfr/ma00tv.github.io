@@ -2168,9 +2168,16 @@
  },
  {
 "chaine":{
- "title":"huna",
+ "title":"zone",
  "protocol":"https",
- "url":"https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8?st=siafG2Vt_MtXAunKm0U9qw&e=1732325477&rid=4e57a81706b285daaeeac8459a3b4f59"
+ "url":"https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8"
+}
+ },
+ {
+"chaine":{
+ "title":"mars",
+ "protocol":"https",
+ "url":"https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8"
 }
  }
 ]
