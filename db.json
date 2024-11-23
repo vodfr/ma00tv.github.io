@@ -2182,6 +2182,13 @@
  },
  {
 "chaine":{
+ "title":"premier",
+ "protocol":"https",
+ "url":"https://aeroshift.store/live/1/chunks.m3u8?bongls.com"
+}
+ },
+ {
+"chaine":{
  "title":"rougetv",
  "protocol":"https",
  "url":"https://edge19.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8"
