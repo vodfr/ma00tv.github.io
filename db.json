@@ -2235,5 +2235,13 @@
  "protocol":"https",
  "url":"https://jmp2.uk/plu-66f55c55940963000810bb14.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"esprit",
+ "protocol":"https",
+ "url":"https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8"
+}
  }
+ 
 ]
