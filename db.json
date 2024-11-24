@@ -2166,6 +2166,13 @@
  "url":"https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8"
 }
  },
+{
+"chaine":{
+ "title":"ajyalmovies",
+ "protocol":"https",
+ "url":"https://helga.iptv2022.com/Ajyal_TV/index.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LndlYiJ9"
+}
+ },
  {
 "chaine":{
  "title":"zone",
