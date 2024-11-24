@@ -2270,5 +2270,12 @@
  "protocol":"https",
  "url":"https://sparkforge.store/live/7/chunks.m3u8?bongls.com"
 }
+ },
+ {
+"chaine":{
+ "title":"espn_deportes",
+ "protocol":"https",
+ "url":"https://sparkforge.store/live/2/chunks.m3u8?bongls.com"
+}
  }
 ]
