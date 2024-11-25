@@ -6,6 +6,14 @@
  "url":"https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/taken.m3u8"
 }
  },
+ 
+ {
+"chaine":{
+ "title":"turbo",
+ "protocol":"https",
+ "url":"https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8"
+}
+ },
  {
     "chaine": {
       "title": "link1",
