@@ -27,8 +27,14 @@
       "url": "http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w1073138473.m3u8"
   
     }
+  }, 
+  {
+    "chaine": {
+      "title": "promix",
+      "protocol": "https",
+      "url": "https://ffs3.gulfsat.com/hbc/index.m3u8"
+    }
   },
-
   {
     "chaine": {
       "title": "link4",
