@@ -2416,5 +2416,12 @@
  "protocol":"http",
  "url":"http://master-365.com:8880/live/aymen/aymen/44353.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"extra_fight",
+ "protocol":"http",
+ "url":"https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
+}
  } 
 ]
