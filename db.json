@@ -2374,5 +2374,19 @@
  "protocol":"http",
  "url":"http://master-365.com:8880/live/aymen/aymen/28130.m3u8"
 }
+ },
+ {
+"chaine":{
+ "title":"bein2fr",
+ "protocol":"http",
+ "url":"http://master-365.com:8880/live/aymen/aymen/19676.m3u8"
+}
+ },
+ {
+"chaine":{
+ "title":"bein1fr",
+ "protocol":"http",
+ "url":"http://master-365.com:8880/live/aymen/aymen/97.m3u8"
+}
  }
 ]
