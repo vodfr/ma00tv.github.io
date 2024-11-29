@@ -2420,7 +2420,7 @@
  {
 "chaine":{
  "title":"extra_fight",
- "protocol":"http",
+ "protocol":"https",
  "url":"https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
 }
  } 
