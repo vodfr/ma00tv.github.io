@@ -2423,5 +2423,12 @@
  "protocol":"https",
  "url":"https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
 }
- } 
+ },
+ {
+"chaine":{
+ "title":"moselle",
+ "protocol":"https",
+ "url":"https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8"
+}
+ }
 ]
