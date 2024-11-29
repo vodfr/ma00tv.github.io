@@ -2353,5 +2353,13 @@
  "protocol":"https",
  "url":"https://lenz.ayassport.ir/wh7f454c46tw3607774381_-1389173487/PLTV/88888888/224/3221226979/index.m3u8"
 }
+ }, 
+ {
+"chaine":{
+ "title":"canal+sport",
+ "protocol":"http",
+ "url":"http://master-365.com:8880/live/aymen/aymen/21543.m3u8"
+}
  }
+ 
 ]
