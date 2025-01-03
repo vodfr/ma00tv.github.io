@@ -8,6 +8,20 @@
  },
  {
 "chaine":{
+ "title":"teendoc",
+ "protocol":"https",
+ "url":"https://ch14.tv/live/ch4teendoc/playlist.m3u8"
+}
+ },
+{
+"chaine":{
+ "title":"teenkids",
+ "protocol":"https",
+ "url":"https://ch14.tv/live/ch4teenkids/playlist.m3u8"
+}
+ },
+ {
+"chaine":{
  "title":"turbo",
  "protocol":"https",
  "url":"https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8"
