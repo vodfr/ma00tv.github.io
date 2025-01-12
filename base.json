@@ -1,1 +1,20 @@
- [{"channel":{ "name": "BERBÈRE", "url": "http://win4kpanel.xyz:80/ob250L/r3K0s7/4994.m3u8" }, { "name": "TF1", "url": "http://norzaiq.top:8080/live/7151733675985630/9234244d8777/8187.m3u8" }},{"channel":{"name":"kojak","url":"http://emahemah_pl.mp4"}}]
+[
+    {
+        "channel": {
+            "name": "BERBÈRE",
+            "url": "http://win4kpanel.xyz:80/ob250L/r3K0s7/4994.m3u8"
+        }
+    },
+    {
+        "channel": {
+            "name": "TF1",
+            "url": "http://norzaiq.top:8080/live/7151733675985630/9234244d8777/8187.m3u8"
+        }
+    },
+    {
+        "channel": {
+            "name": "kojak",
+            "url": "http://emahemah_pl.mp4"
+        }
+    }
+]
