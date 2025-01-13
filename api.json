@@ -1,1 +1,12 @@
-[{channel:{name:"1.TEEN DOC",url:"https://ch14.tv/live/ch4teendoc/playlist.m3u8"}},{channel:{ name: "2.EFFETS PAPILLON", url: "https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8"}},{channel:{name:"LOVE THE PLANET",url:"https://jmp2.uk/sam-FRBC3900004DS.m3u8"}},{channel:{name:"DÉSTINATION NATURE",url:"https://jmp2.uk/sam-FRBC4000001IO.m3u8"}},{channel:{name:"NATURE TIME",url:"https://jmp2.uk/sam-FRBB4900002D4.m3u8"}},{channel:{name:"ANIMAUX DOC",url:"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner"}},{channel:{name:"DOC STORY",url:"https://jmp2.uk/sam-FR1200001N2.m3u8"}},{channel:{name:"100% DOCS",url:"https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"}},{channel:{name:"30 HISTOIRES",url:"https://jmp2.uk/sam-FRBC4700004ZN.m3u8"}},{channel:{name:"TURBO",url:"https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8"}}]
+[
+  {"channel": {"name": "1.TEEN DOC", "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8"}},
+  {"channel": {"name": "2.EFFETS PAPILLON", "url": "https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8"}},
+  {"channel": {"name": "LOVE THE PLANET", "url": "https://jmp2.uk/sam-FRBC3900004DS.m3u8"}},
+  {"channel": {"name": "DÉSTINATION NATURE", "url": "https://jmp2.uk/sam-FRBC4000001IO.m3u8"}},
+  {"channel": {"name": "NATURE TIME", "url": "https://jmp2.uk/sam-FRBB4900002D4.m3u8"}},
+  {"channel": {"name": "ANIMAUX DOC", "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner"}},
+  {"channel": {"name": "DOC STORY", "url": "https://jmp2.uk/sam-FR1200001N2.m3u8"}},
+  {"channel": {"name": "100% DOCS", "url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"}},
+  {"channel": {"name": "30 HISTOIRES", "url": "https://jmp2.uk/sam-FRBC4700004ZN.m3u8"}},
+  {"channel": {"name": "TURBO", "url": "https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8"}}
+]
