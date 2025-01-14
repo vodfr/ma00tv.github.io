@@ -1,6 +1,8 @@
 [
   {"channel": {"name": "TEEN DOC", "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8"}},
-  {"channel": {"name": "KTV DOC", "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"}},
+  {"channel": {"name": "KTV", "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"}},
+  {"channel": {"name": "AD NATGEO", "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"}},
+  {"channel": {"name": "JSC DOC", "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8"}},
   {"channel": {"name": "EFFETS PAPILLON", "url": "https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8"}},
   {"channel": {"name": "LOVE THE PLANET", "url": "https://jmp2.uk/sam-FRBC3900004DS.m3u8"}},
   {"channel": {"name": "DÉSTINATION NATURE", "url": "https://jmp2.uk/sam-FRBC4000001IO.m3u8"}},
