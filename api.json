@@ -1,6 +1,7 @@
 [
   {"channel": {"name": "1.TEEN DOC", "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8"}},
-  {"channel": {"name": "2.EFFETS PAPILLON", "url": "https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8"}},
+  {"channel": {"name": "2.KTV DOC", "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"}},
+  {"channel": {"name": "3.EFFETS PAPILLON", "url": "https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8"}},
   {"channel": {"name": "LOVE THE PLANET", "url": "https://jmp2.uk/sam-FRBC3900004DS.m3u8"}},
   {"channel": {"name": "DÉSTINATION NATURE", "url": "https://jmp2.uk/sam-FRBC4000001IO.m3u8"}},
   {"channel": {"name": "NATURE TIME", "url": "https://jmp2.uk/sam-FRBB4900002D4.m3u8"}},
