@@ -1,5 +1,4 @@
-[
-  { "channel": { "name": "BOX OFFICE ACTION", "url": "https://jmp2.uk/sam-FR370000288.m3u8" } },
+[ { "channel": { "name": "BOX OFFICE ACTION", "url": "https://jmp2.uk/sam-FR370000288.m3u8" } },
   { "channel": { "name": "BOX OFFICE DRAMA", "url": "https://jmp2.uk/sam-FR3700003N4.m3u8" } },
   { "channel": { "name": "BOX OFFICE TEEN", "url": "https://jmp2.uk/sam-FR3700001AG.m3u8" } },
   { "channel": { "name": "CINÉ MAX", "url": "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8" } },
