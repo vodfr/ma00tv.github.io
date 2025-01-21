@@ -1,0 +1,16 @@
+[
+  { "channel": { "name": "BOX OFFICE ACTION", "url": "https://jmp2.uk/sam-FR370000288.m3u8" } },
+  { "channel": { "name": "BOX OFFICE DRAMA", "url": "https://jmp2.uk/sam-FR3700003N4.m3u8" } },
+  { "channel": { "name": "BOX OFFICE TEEN", "url": "https://jmp2.uk/sam-FR3700001AG.m3u8" } },
+  { "channel": { "name": "CINÉ MAX", "url": "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8" } },
+  { "channel": { "name": "SÉRIES MAX", "url": "https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8" } },
+  { "channel": { "name": "PLUTO ACTION", "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42" } },
+  { "channel": { "name": "CINÉ CATASTROPHE", "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner" } },
+  { "channel": { "name": "RUN TIME", "url": "https://jmp2.uk/sam-FRBB50000016B.m3u8" } },
+  { "channel": { "name": "GOLDEN SWEET", "url": "https://helga.iptv2022.com/sh/GOLDEN_SWEET_TV/index.m3u8" } },
+  { "channel": { "name": "FAMILY CLUB", "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c9260ac0222700089ee62blivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072631-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=364c137f-40b0-4bdd-a96c-0065bd886eaf&profilesFromStream=true" } },
+  { "channel": { "name": "CINÉ WESTERN", "url": "https://jmp2.uk/sam-FRBD19000095S.m3u8" } },
+  { "channel": { "name": "WESTERN FILMS", "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cca3e2ec452d0008af3a65/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d44-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bae761e4-0e1a-4102-8f5e-fa657934946c" } },
+  { "channel": { "name": "SCREAM IN", "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8" } },
+  { "channel": { "name": "WILDSIDE", "url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8" } }
+];
