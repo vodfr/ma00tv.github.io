@@ -1,4 +1,4 @@
-[  
+[ { "channel": { "name": "WUTANG TV", "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=kmUfcstnrHNRpTWsefCx" } },
   { "channel": { "name": "100% adrenaline", "url": "https://jmp2.uk/sam-FR3800001ZU.m3u8" } },
   { "channel": { "name": "MOVIES ACTION", "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264" } },
   { "channel": { "name": "BOX OFFICE ACTION", "url": "https://jmp2.uk/sam-FR370000288.m3u8" } },
