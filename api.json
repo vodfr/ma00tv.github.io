@@ -41,6 +41,8 @@
   {"channel": {"name": "SCÈNE DE CRIME", "url": "https://jmp2.uk/sam-FRBD39000039D.m3u8"}},
   {"channel": {"name": "FAITES ENTRER L'ACCUSÉ", "url": "https://jmp2.uk/sam-FR1400002XF.m3u8"}},
   {"channel": {"name": "CRIBS MAISON DE STARS", "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602cf8963b4bc90007454541/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner"}},
-  {"channel": {"name": "INCROYABLE TRANSFORMATION", "url": "https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8"}}
+  {"channel": {"name": "INCROYABLE TRANSFORMATION", "url": "https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8"}},
+  {"channel": {"name": "Y QE LA VÉRITÉ QI CMTE", "url": "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8"}},
+  {"channel": {"name": "LES MARSEILLAIS", "url": ""}},
 
 ]
