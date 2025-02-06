@@ -1,5 +1,4 @@
-[  
-  {"channel": {"name": "MOTUS CHIFFRES&LETTRES", "url":"https://jmp2.uk/sam-FRBB490000412.m3u8"}},
+[ {"channel": {"name": "MOTUS CHIFFRES&LETTRES", "url":"https://jmp2.uk/sam-FRBB490000412.m3u8"}},
   {"channel": {"name": "QI GAGNE DS MILLIONS", "url":"https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8"}},
   {"channel": {"name": "TEEN DOC", "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8"}},
   {"channel": {"name": "KTV", "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"}},
@@ -44,6 +43,7 @@
   {"channel": {"name": "INCROYABLE TRANSFORMATION", "url": "https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8"}},
   {"channel": {"name": "Y QE LA VÉRITÉ QI CMTE", "url": "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8"}},
   {"channel": {"name": "LES MARSEILLAIS", "url": ""}},
-  {"channel": {"name": "REINES DU SHOPPING", "url": "https://jmp2.uk/plu-66f55c55940963000810bb14.m3u8"}}
-
+  {"channel": {"name": "REINES DU SHOPPING", "url": "https://jmp2.uk/plu-66f55c55940963000810bb14.m3u8"}},
+  {"channel": {"name": "CAUGHT ON TAPE", "url":"https://jmp2.uk/sam-US700007CV.m3u8"}},
+ 
 ]
