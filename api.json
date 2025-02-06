@@ -1,4 +1,5 @@
-[ {"channel": {"name": "MOTUS CHIFFRES&LETTRES", "url":"https://jmp2.uk/sam-FRBB490000412.m3u8"}},
+[ {"channel": {"name": "TUNER MA CAISSE", "url":"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner"}},
+  {"channel": {"name": "MOTUS CHIFFRES&LETTRES", "url":"https://jmp2.uk/sam-FRBB490000412.m3u8"}},
   {"channel": {"name": "QI GAGNE DS MILLIONS", "url":"https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8"}},
   {"channel": {"name": "TEEN DOC", "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8"}},
   {"channel": {"name": "KTV", "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"}},
