@@ -24,7 +24,7 @@
   {"channel": {"name": "RMC J'IRAI DORMIR", "url": "https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=FRBD4800001P4"}},
   {"channel": {"name": "NOUVEAUTÉS TECHNOLOGIQUES", "url":"https://jmp2.uk/sam-FRBD4100010ZZ.m3u8"}},
   {"channel": {"name": "RMC MECANIC", "url": "https://jmp2.uk/sam-FR300003ZB.m3u8"}},
-  {"channel": {"name": "TURBO", "url": "https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8"}},
+  {"channel": {"name": "TURBO", "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66f55c3955567d0008ef9b68livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"}},
   {"channel": {"name": "MOTORVISION", "url": "https://jmp2.uk/sam-FRBD3200001DV.m3u8"}},
   {"channel": {"name": "DRIVE TV", "url": "https://jmp2.uk/sam-FRBD3600001BQ.m3u8"}},
   {"channel": {"name": "ARTE INV AU VOYAGE", "url": "https://jmp2.uk/sam-FR3700004HZ.m3u8"}},
