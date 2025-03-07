@@ -30,7 +30,7 @@
   {"channel": {"name": "ARTE INV AU VOYAGE", "url": "https://jmp2.uk/sam-FR3700004HZ.m3u8"}},
   {"channel": {"name": "LA MAISON FRANCE 5", "url": "https://jmp2.uk/sam-FR4200001BN.m3u8"}},
   {"channel": {"name": "30 HISTOIRES", "url": "https://jmp2.uk/sam-FRBC4700004ZN.m3u8"}},
-  {"channel": {"name": "ZONE INTERDITE", "url": "https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8"}},
+  {"channel": {"name": "ZONE INTERDITE", "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66f55cf2483d460008f68746livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"}},
   {"channel": {"name": "REPORTAGES", "url": "https://jmp2.uk/sam-FRBD3900004PH.m3u8"}},
   {"channel": {"name": "BFM GR REPORTAGES", "url": "https://jmp2.uk/sam-FR300004J5.m3u8"}},
   {"channel": {"name": "ENQUÊTE DE CHOC", "url": "https://amg01796-fastmediabackbo-enquetesdechoc-samsungfr-s0s2i.amagi.tv/playlist/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8"}},
